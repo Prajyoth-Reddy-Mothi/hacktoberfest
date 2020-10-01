@@ -1,4 +1,4 @@
-# hacktoberfest
+# HACKTOBERFEST
 I created a simple website to fetch all contributors of hacktoberfest. Check it out here: https://niklasschmitt.github.io/hacktoberfest
 
 # joining the list
